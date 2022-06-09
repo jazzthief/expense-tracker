@@ -33,7 +33,7 @@ function App() {
             title={exp.title}
             date={exp.date}
             amount={exp.amount}
-          ></ExpenseItem>
+          />
         }) }
       </div>
     </div>
